@@ -9,7 +9,7 @@ Las probabilidades dependen de la cantidad de batallones atacantes y la cantidad
 Para calcular las probabilidades de una batalla 'a muerte' rapidamente se ejecuta
 ```python teg.py atacantes defensores```
 Por ejemplo, si atacan 6 y defienden 4
-```python teg.py 6 4"```
+```python teg.py 6 4```
 
 Sino, para realizar esquemas propios o modificar el codigo, dentro del script hay que ejecutar la funcion run(atacantes,defensores).
 
